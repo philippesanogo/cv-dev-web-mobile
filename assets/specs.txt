@@ -1,5 +1,5 @@
 main colors :
 
-/* #1e1e2d */
-/* #f31d58 */
-/* #26293d */
+/* #1e1e2d */ bleu
+/* #f31d58 */ rose
+/* #26293d */ bleu clair
